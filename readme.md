@@ -33,13 +33,13 @@
 
 Key Point Achieved:
 
-> Launched App server(EC2 with wordpress in private subnet) ensuring app server's security
-> Launched RDS DB instance in private subnet ensuring app server's security
-> Private Subnet instance can access internet via NAT Gateway
-> Public Subnet attached to Internet gateway
-> Route table policies done 
-> Launched Load Balancer in Public subnet to take request from internet
-> Implemented using Auto Scalaring group(fault tollerance)
+> Launched App server(EC2 with wordpress in private subnet) ensuring app server's security,  
+> Launched RDS DB instance in private subnet ensuring app server's security,  
+> Private Subnet instance can access internet via NAT Gateway,  
+> Public Subnet attached to Internet gateway,  
+> Route table policies done,  
+> Launched Load Balancer in Public subnet to take request from internet,  
+> Implemented using Auto Scalaring group(fault tollerance),  
 > High Availability type implementation
 
 
